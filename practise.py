@@ -64,4 +64,27 @@ txt = "Shehab"
 #
 # print(x)
 
+# list, tuple, set, dict
 
+#list
+# numbers = [10,20,30,40]
+# numbers[0] = 5
+# print(numbers)
+
+#tuple
+# point = (10,20,30)
+# point[0] = 20
+# print(point) → error : tuple is immutable
+
+
+# set
+# set is unordered, not repeat
+# numbers = {10,10,20,30}
+# print(numbers)
+# print(numbers[0])
+
+# student = {
+#     "name": "Ahmed",
+#     "age": 25
+# }
+# print(student["name"])
